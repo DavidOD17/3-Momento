@@ -1,7 +1,7 @@
 // Clase Boton
 public class Boton {
     private boolean encendido;  // Indica si el boton esta presionado
-    private String tipo;  // Tipo de botón "subida", "bajada" o "destino"
+    private String tipo;  // Tipo de boton "subida", "bajada" o "destino"
 
     // Constructor de un boton de tipo 
     public Boton(String tipo) {
